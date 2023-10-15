@@ -70,8 +70,7 @@ jobs:
 
         - task: AzureCLI@2
           inputs:
-            # TODO: Fill in with the name of your Azure service connection
-            azureSubscription: ''
+            azureSubscription: 'LogicApp-SC'
             scriptType: 'bash'
             scriptLocation: 'inlineScript'
             inlineScript: |
