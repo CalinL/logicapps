@@ -2,7 +2,7 @@
 
 variables:
 
-  projectName: 'logicappstandarddemo'
+  projectName: 'lasdemo'
   suffix: 'cldev001'
 
   # Resource Group
