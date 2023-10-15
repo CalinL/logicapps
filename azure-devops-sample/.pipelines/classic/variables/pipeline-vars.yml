@@ -2,8 +2,8 @@
 
 variables:
 
-  projectName: 'logicappsample'
-  suffix: 'dev'
+  projectName: 'logicappstandarddemo'
+  suffix: 'cldev001'
 
   # Resource Group
   resourceGroupLocation: 'westus'
